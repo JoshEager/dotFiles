@@ -40,7 +40,6 @@ line-size = 3pt
 border-size = 0
 border-color = #00000000
 
-padding-top = 4
 padding-left = 0
 padding-right = 2
 
@@ -52,7 +51,7 @@ separator-foreground = ${colors.disabled}
 font-0 = "Font Awesome 5 Free:style=Regular:pixelsize=12"
 encoding = utf-8
 
-modules-left = xworkspaces xwindow
+modules-left = xworkspaces
 # modules-right = pulseaudio xkeyboard memory cpu wlan eth date
 modules-center = date
 
